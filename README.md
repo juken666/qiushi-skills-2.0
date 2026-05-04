@@ -41,6 +41,7 @@
 | [strategic-thinking](skills/strategic-thinking/SKILL.md) | 战略思维：全局观和长远眼光 | 战略思维、全局观、长远眼光 |
 | [class-analysis](skills/class-analysis/SKILL.md) | 阶级分析：谁是我们的敌人，谁是我们的朋友 | 阶级分析、敌友分析、利益相关者 |
 | [piano-method](skills/piano-method/SKILL.md) | 弹钢琴工作法：统筹全局，抓住重点 | 弹钢琴、统筹兼顾、多任务 |
+| [feng-ge-perspective](skills/feng-ge-perspective/SKILL.md) | 峰哥视角：街头社会学家看透社会 | 峰哥、峰哥亡命天涯、用峰哥的方式 |
 
 ## 目录结构
 
@@ -63,7 +64,8 @@ mao-skills-collection/
     ├── independent-self-reliance/ # 独立自主
     ├── strategic-thinking/      # 战略思维
     ├── class-analysis/          # 阶级分析
-    └── piano-method/            # 弹钢琴工作法
+    ├── piano-method/            # 弹钢琴工作法
+    └── feng-ge-perspective/     # 峰哥视角（街头社会学家）
 ```
 
 ## 使用方法
